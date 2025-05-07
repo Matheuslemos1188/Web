@@ -1,0 +1,25 @@
+html{
+  background-color: #B9d8a8;
+}
+img {
+  display: block;
+  margin: 0 auto 20px;
+  border-radius: 10%;
+}
+h1, h2 {
+  text-align: center;
+  color: #297000;
+}
+ li {
+  font-size: 16px;
+  line-height: 1.6;
+}
+ul {
+  padding-left: 20px;
+}
+.section {
+  margin-bottom: 30px;
+}
+body{
+  font-family:'Times New Roman', Times, serif;
+}
